@@ -1,0 +1,16 @@
+#channelSearchBar {
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  #channelSearchButton {
+    padding: 5px 10px;
+    margin: 5px;
+  }
+  
+  #results {
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+  }
+  
